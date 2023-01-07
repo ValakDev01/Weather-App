@@ -1,1 +1,3 @@
-# Weather-App
+# Weather-App ☁️
+
+This program is a weather app that takes latitude and longitude as input data. It uses an API to retrieve the weather at that location and returns the temperature and cloud coverage. The user can enter the desired location by inputting the latitude and longitude, or by using the device's current location if that feature is available. The program then sends a request to the weather API with the provided location coordinates, and the API responds with the current weather data for that location. The program then processes the data and displays it to the user in a user-friendly format.
